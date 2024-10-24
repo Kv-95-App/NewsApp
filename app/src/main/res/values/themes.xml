@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.NewsApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Primary branding colors -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item> <!-- Different shade for variant -->
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/purple_500</item>
+
+        <!-- Optional: Control the color of the status bar icons -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
